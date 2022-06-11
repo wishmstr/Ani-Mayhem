@@ -3,10 +3,7 @@ plugins/Ani-Mayhem_Classic/plugininfo.txt	https://raw.githubusercontent.com/wish
 plugins/Ani-Mayhem_Classic/rules.pdf	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/rules.pdf	11372152
 plugins/Ani-Mayhem_Classic/credits.txt	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/credits.txt	9835
 plugins/Ani-Mayhem_Classic/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/CardImageURLs1.txt	8457866
-plugins/Ani-Mayhem_Classic/sets/Set_Zero.txt	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/Set_Zero.txt	3488982
-plugins/Ani-Mayhem_Classic/sets/Demo_Set.txt	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/Demo_Set.txt	295439
-plugins/Ani-Mayhem_Classic/sets/Set_One.txt	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/Set_One.txt	2649763
-plugins/Ani-Mayhem_Classic/sets/Set_Two.txt	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/Set_Two.txt	3581724
+plugins/Ani-Mayhem_Classic/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/carddata.txt	9983997
 plugins/Ani-Mayhem_Classic/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/setimages/general/purple.jpg	-77979
 plugins/Ani-Mayhem_Classic/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/setimages/general/purple.jpg	-77979
 plugins/Ani-Mayhem_Classic/sets/setimages/general/purple.jpg	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/setimages/general/purple.jpg	-77979
