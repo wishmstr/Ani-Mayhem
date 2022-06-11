@@ -1,0 +1,243 @@
+Name	Set	ImageFile	Rarity	Type	Attack	Defense	Movement	Charm	Energy	Skills	Requirements	Uses	Categories	Instructions
+Adult Gohan	Set_Two	card002,purple	Rare	Character	5	5	3	2	4	Martial Arts, Chi x2, Flying, Student, Teacher, Driving			Half-Saiyan	
+Atlia	Set_Two	card010,purple	Uncommon	Character	2	3	2	2	3	Survival, Strength, Weapons, Swordsman, Pure Heart			Alien, Bugrom, Insect	Count as Bugrom for Bonuses.
+Baba	Set_Two	card013,purple	Rare	Character	1	2	4	2	5	Magic, ESP, Flying, Communications, Investigation x2, Phase			Dimensional	Every third turn, Baba can revive either one of your Killed Characters or Defeated Disasters. Place it at any Location. It stays in play for 1 turn. (You will control the Character, but not the disaster.)
+Baby Gohan	Set_Two	card014,purple	Common	Character	1/6	2/10	2/4	4/0	2/6	Pure Heart x2, Investigation, Chi, Student			Half-Saiyan	Transforms at the Full Moon. When transformed treat as a Major Combat Disaster. If another Character in his group is reduced to Health < 2, Gohan is +4 Damage the following Combat round (not if he is in Were-form).
+Bubbles	Set_Two	card015,purple	Rare	Character	0	3	3	5	0	Strength, Speed			Animal, Dimensional	All other Characters in Bubbles' Party get +1 Attack & Defense
+Bulma	Set_Two	card016,purple	Common	Character	2	2	3	4	0	Genius, Tech x2, Mech, Computer, Investigation, Communications, Pilot			Science	Any player with Bulma in play may play 2 Equipment cards each turn during the Equip phase, instead of 1 (if available in hand).
+Chi-Chi	Set_Two	card019,purple	Common	Character	2	2	3	3	0	Royalty, Teacher, Cooking, Medic, Weapons, Martial Arts, Driving -1				Chi-Chi wont attack Gohan. When at the same location as Gohan, Chi-Chi is +1 Attack. If Gohan is Attacked by another Character, Chi-Chi automatically attacks that Character at +3 Attack
+Chiao-Tzu	Set_Two	card020,purple	Rare	Character	1	1	2	4	5	Royalty, Chi, Phase, ESP, Martial Arts, Flying				Every third turn, Chiao-Tzu can paralyze one Character at his location for 1 round of Physical Combat.
+Farmer with shotgun	Set_Two	card027,purple	Common	Character	2	1	4	1	0	Mech, Driving, Hunter, Blind Luck -1, Music				All Characters in the Farmer's party are at Movement = 4.
+Future Trunks	Set_Two	card028,purple	Ultra Rare	Character	6	6	3	3	5	Martial Arts, Chi x2, Streetwise, Computer, Flying, Mech, Strength, Swordsman x3			Half-Saiyan, Dimensional	Stays in play a maximum of 3 turns, then is shuffled back into the owner's Draw pile.
+Gohan the Barbarian	Set_Two	card031,purple	Uncommon	Character	3	3	3	3	3	Martial Arts, Climbing, Survival, Hunter, Swordsman			Half-Saiyan	Does not transform at Full Moon. +1 Attack & Defense against Animal.
+Goku	Set_Two	card032,purple	Common	Character	5	5	3	3	4	Martial Arts, Chi x2, Flying, Pure Heart, Strength, Speed			Saiyan	Does not transform at Full Moon. -1 Attack & Defense against Mecha and for all Equipment Bonuses.
+Goku	Set_Two	card033,purple	Rare	Character	6	5	3	3	5	Martial Arts, Chi x2, Flying, Pure Heart, Strength, Speed			Saiyan	Does not transform at Full Moon. -1 Attack & Defense against Mecha and for all Equipment Bonuses.
+Goten	Set_Two	card034,purple	Rare	Character	3	4	3	4	3	Flying, Martial Arts x2, Chi, Blind Luck, Acrobatics, Pure Heart			Half-Saiyan	
+Gregory	Set_Two	card035,purple	Rare	Character	1	2	4	3	2	Flying, Magic, Teacher, Martial Arts, Speed x2			Bugrom, Insect, Dimensional	
+Kami	Set_Two	card037,purple	Rare	Character	4	4	3	1	6	Magic, Flying, Chi x3, Splitting			Alien, Namek, Dimensional	All other Characters in Kami's Party are at +1 Energy.
+Krillin	Set_Two	card041,purple	Common	Character	4	4	3	2	3	Martial Arts x2, Pure Heart, Flying, Chi, Priest				
+Lunch	Set_Two	card048,purple	Uncommon	Character	3/1	3/1	2	5/2	0	Streetwise, Driving x2, Acrobatics, Weapons, Seduction				Alternates from one set of stats to the other every other round.
+Master Roshi	Set_Two	card053,purple	Uncommon	Character	2	3	2	3	3	Martial Arts, Chi, Priest, Savoir-Faire, Peeping				This island-livin', turtle-lovin' martial arts master gives a Chi Skill to all the Characters in his group.
+Nail	Set_Two	card061,purple	Uncommon	Character	4	4	2	0	3	Weapons, Police, Military, Flying, Splitting			Alien, Namek	
+Oolong	Set_Two	card066,purple	Uncommon	Character	4/1	4/1	3	0	0	Shape Change, Streetwise x2, Investigation, Driving, Peeping			Animal, Clothing	Maintains higher "shape-changed" stats until a success-ful attack (i.e., takes Damage) is made on him. Then he reverts to lower stats.
+Ox-King	Set_Two	card067,purple	Uncommon	Character	3	3	2	3	1	Royalty, Strength, Weapons, Martial Arts				
+Piccolo	Set_Two	card069,purple	Rare	Character	5	5	3	2	7	Martial Arts, Strength x2, Flying, Teacher, Speed, Shape Change, Streetwise -1			Alien, Namek	Piccolo will not attack Gohan and wont Protect Characters other than Gohan. If another Namek is Killed at a Location Piccolo is at, Piccolo adds half of that Character's Attack, Defense and Energy (rounded down) for the rest of the game.
+Super Saiyan (Goku)	Set_Two	card087,purple	Ultra Rare	Character	7	9	4	0	7	Martial Arts x3, Chi x5, Strength x4, Flying x3, Speed x2				If Goku is bonked but not killed 3 times, he can be replaced by this card every 3rd turn for a turn at a time. Note: All Characters at the same Location as a Super Saiyan automatically take 1 point of Damage per round during Combat.
+Super Saiyan (Goten)	Set_Two	card088,purple	Ultra Rare	Character	5	6	4	0	5	Martial Arts x3, Ki x4, Strength x2, Flying x3, Speed x2				If Goten reaches Energy = 8, he can be replaced by this card every third turn for a turn at a time. Note: All Characters at the same Location as a Super Saiyan auto-matically take 1 point of Damage per round during Combat.
+Super Saiyan (Trunks)	Set_Two	card089,purple	Ultra Rare	Character	6	7	4	0	5	Martial Arts x3, Chi x4, Strength x2, Flying x3, Speed x2				If Trunks reaches Energy = 10, he can be replaced by this card every 3rd turn for a turn at a time. Note: All Characters at the same Location as a Super Saiyan auto-matically take 1 point of Damage per round during Combat.
+Tien (Tenshinhan)	Set_Two	card093,purple	Common	Character	4	4	3	1	4	Strength, Pure Heart, Chi, Flying, Splitting, Martial Arts x2				If not Bonked, will heal 1 point of Health per round.
+Trunks	Set_Two	card094,purple	Common	Character	3	4	3	3	3	Martial Arts, Streetwise, Chi, Strength, Flying			Half-Saiyan	Does not transform at Full Moon.
+Yajirobe	Set_Two	card098,purple	Common	Character	1	2	1	1	0	Streetwise, Medic, Driving, Bureaucracy, Swordsman			Food	Yajirobe can Run Away alone even if he is in a Group.
+Yamcha (The Desert Bandit)	Set_Two	card099,purple	Common	Character	4	3	2	5	2	Martial Arts x2, Chi, Hunter, Pilot, Celebrity				Charm Attacks against females at -6. Charm Defense against females is normal.
+Young Gohan	Set_Two	card101,purple	Uncommon	Character	4	4	3	3	4	Martial Arts, Chi, Flying, Pure Heart, Student, Strength			Half-Saiyan	Does not transform at Full Moon.
+Bump on the Head	Set_Two	card106,purple	Rare	Enhancement										Attach to any 1 Combat Disaster with combined Attack & Defense < 13 on the turn it comes into Play. Play as your Character for the duration of the game. Note: No more than 2 Disasters can act together at any time.
+Good Deed	Set_Two	card113,purple	Uncommon	Enhancement										Gives the Chi Skill to a Character who does not have it. Gives Chi x2 to a Character who already has Chi, Chi x3 to a Character who already has Chi x2, etc.
+Heavy Gravity Training	Set_Two	card114,purple	Rare	Enhancement	+1*	+1*	+1*							+1 to Character's Attack or Defense for each turn Character remains in Haven (for up to 3 turns). Only 1 Heavy Gravity Training can be played on a Character.
+I Like to Watch	Set_Two	card115,purple	Promotional	Enhancement										Gives the Investigation Skill, and the ability to pierce Illusions.
+Immortality	Set_Two	card117,purple	Promotional	Enhancement										Character cannot be Killed, only Bonked. This card stays with the Character if the Character is Bonked. It is not discarded as other Enhancements.
+Leap of Faith	Set_Two	card124,purple	Uncommon	Enhancement										Gives Pure Heart Skill to a Character without it or adds 1 Chi Skill to a Character who already has Pure Heart Skill.
+M.V.P.	Set_Two	card125,purple	Common	Enhancement										Gives Celebrity x2 Skill. +1 to Charm.
+Speed II	Set_Two	card144,purple	Common	Enhancement										Gives Speed skill to a Character that does not have it. Gives an additional Speed skill to a Character that already has the Speed skill.
+Spirit	Set_Two	card145,purple	Common	Enhancement					+1					+1 to Energy. Limit 6 per deck.
+Spirit Fighting	Set_Two	card146,purple	Common	Enhancement									Dimensional	Requires Chi x2 Skill. +2 to Attack and Defense against Demons, Ogres, Devils and Undead. Gives Dimensional Ability.
+Survey	Set_Two	card147,purple	Rare	Enhancement									Viewing	Requires Flying Skill. Look at the Disasters under any 1 Location adjacent to the Location you are at once per turn. Limit 2 uses.
+Survival Training	Set_Two	card148,purple	Uncommon	Enhancement										Gives the Survival, Hunter & Climbing Skills, but does not increase existing Skills.
+Weighted Clothing	Set_Two	card153,purple	Uncommon	Enhancement	+1*	+1*	+1*						Clothing	Wear for 2 turns at -1 Attack and Defense, then permanently add +1 to Attack and Defense.
+Airbus	Set_Two	card158,purple	Uncommon	Equipment			3						Flying Vehicle	Requires Driving or Pilot. Gives Flying Skill. Carries up to 6 Characters and their Equipment, including 1 non-flying Vehicle.
+Algebra	Set_Two	card160,purple	Rare	Equipment										Requires Student Skill. Add +1 to Attack or Defense or Movement (bonus is permanent and can't be changed to another Ability later).
+Blasters	Set_Two	card164,purple	Common	Equipment	+1									+1 Attack. -2 Chi Skill.
+Dragon Radar	Set_Two	card172,purple	Rare	Equipment									Viewing	All players must reveal any Dragon Balls they have while Dragon Radar is in Play. Only 1 Dragon Radar can be in play at a time. Limit 1 per deck.
+Dream Mirror	Set_Two	card173,purple	Rare	Equipment									Magic, Viewing	Look at the first Disaster at this Location. If you wish, you may choose to confront the second Disaster first, or Discard to view another player's hand. Limit 1 per deck.
+Floating Car	Set_Two	card175,purple	Common	Equipment			3						Non-flying Vehicle	Requires Driving. Carries up to 4 Characters and their Equipment, excluding other Vehicles.
+Giant's Toy Biplane	Set_Two	card176,purple	Uncommon	Equipment			2						Flying Vehicle	Requires Mech. Gives Flying Skill. Carries up to 3 Characters and their Equipment, excluding other Vehicles.
+Goz' Flying Machine	Set_Two	card177,purple	Rare	Equipment			2							Requires Strength skill or Group of at least 3 Characters. Immediately Moves one Character two Locations in any direction. If used during combat, Final Attack damage is halved.
+Gravity Ship	Set_Two	card178,purple	Rare	Equipment			1						Planetary Vehicle, Planetary	Carries up to 5 Characters and their Equipment, including 1 non-Planetary Vehicle.
+Hand Gun	Set_Two	card180,purple	Uncommon	Equipment	+1								Mecha	Never needs winding...or reloading. It requires Tech or Robot or Android.
+Kai's Dimensional Sedan	Set_Two	card183,purple	Rare	Equipment									Dimensional	Gives Dimensional Ability. Carries up to 2 Characters and their Equipment excluding other Vehicles. Requires Driving and Royalty Skills.
+Light	Set_Two	card188,purple	Rare	Equipment										Gives Investigation Skill. View the uppermost Item beneath the Location this Character is at.
+Namek Ship	Set_Two	card194,purple	Rare	Equipment	4	4	2						Planetary Vehicle, Planetary	Requires Pilot skill or Namek. Carries up to 4 Characters and their Equipment, including one non-Planetary Vehicle.
+Power Pole	Set_Two	card197,purple	Promotional	Equipment										Attack up to 2 Locations away from the Location Character is at, at -2 from your total Attack per Location, OR Double Movement for 2 Characters without Equipment.
+Razor Balls	Set_Two	card200,purple	Common	Equipment	2*									Place on a Location. Any Character who lands on the Location without Acrobatics or Speed who is not in a vehicle will take 2 damage to Health. Damage lasts until the end of the turn.
+Rocket Launcher	Set_Two	card204,purple	Uncommon	Equipment	+3								Hand-held Weapon	Requires Weapons Skill. +4 to Attack. 1 use without the Reload card.
+Saiyan Space Pod	Set_Two	card207,purple	Common	Equipment		+1	2						Planetary Vehicle, Planetary	Carries 1 Character with Equipment, excluding other Vehicles.
+Scouter	Set_Two	card208,purple	Common	Equipment									Mecha, Viewing	Requires Mech Skill or Freeza. Gives Communications Skill. View Items and Equipment carried by one Character at or adjacent to this Location (but not in a Haven) each turn.
+Yajirobe's Hog	Set_Two	card218,purple	Promotional	Equipment			3						Non-flying Vehicle	Gives Streetwise and Survival Skills. Carries up to 3 Characters and their Equipment, excluding Vehicles.
+Change Direction	Set_Two	card231,purple	Common	Flash Effect									Move	Attach to any Moving Disaster during Disaster Phase. The Disaster perma-nently moves in the opposite direction from now on, beginning with the next Move phase.
+Destructo Disk	Set_Two	card234,purple	Rare	Flash Effect										Requires Chi Skill. Does 3 Damage directly to Health. Limit 1 per turn.
+Divert Attack	Set_Two	card235,purple	Rare	Flash Effect										Requires Chi x2. Direct as many points in Damage as you expend in Energy from 1 Attack to any Character or Disaster at this Location.
+Dodonpa	Set_Two	card236,purple	Common	Flash Effect	+2				1					+2 Attack this round
+Fake Item	Set_Two	card240,purple	Rare	Flash Effect										Return one Item Beneath the Location it was originally at. Fake Item cannot be played by anyone again this game. Note: Fake Item cannot be played on any Location where Nanami Jinnai is present.
+False Moon	Set_Two	card241,purple	Rare	Flash Effect										Requires Saiyan. Transforms all Saiyans in play to Were-form for 2 turns.
+Frozen	Set_Two	card247,purple	Promotional	Flash Effect										Target takes double damage from all Attacks during the next Combat round this turn. Cannot be played against Fire Element or Water Element.
+Genki-Dama	Set_Two	card248,purple	Rare	Flash Effect	+*				8					Requires Chi x3. Add all Energy scores of all Characters in play to your Attack this combat round. All other Characters in group are unable to Attack this round.
+Gohan is Angry...	Set_Two	card251,purple	Common	Flash Effect	+4				1					Add 4 to the Attack of any Character with base Attack < 3 for 1 round.
+Haste	Set_Two	card253,purple	Uncommon	Flash Effect										Adds 1 Movement to entire group this turn, or adds Speed skill to any 1 Character for 1 full turn.
+Hey, you're not dead!	Set_Two	card254,purple	Common	Flash Effect										One Character Killed this round is Bonked instead.
+High Ground	Set_Two	card256,purple	Common	Flash Effect		+1								Requires Climbing or Flying or Genius. +1 to any one Character's defense, and -1 from the Defense of any Character(s) or Disaster(s) Attacking that Character.
+Jan-Ken-Pon	Set_Two	card260,purple	Common	Flash Effect										Play Rock/Scissors/Paper with the player to your left. If you win, Move any 1 Disaster 1 Location forward.
+Just a Scratch	Set_Two	card261,purple	Rare	Flash Effect	0*									Requires Speed. Take 0 Damage from any 1 Attack this round.
+Kamehameha	Set_Two	card262,purple	Uncommon	Flash Effect	+*				*					Requires Chi x2. Add all of your base Energy to your Attack this round. No Attack and -2 Defense next round.
+Keen Observation	Set_Two	card264,purple	Rare	Flash Effect										Destroys one random card from any one player's draw pile.
+Know When to Run	Set_Two	card265,purple	Uncommon	Flash Effect										Group takes only half Damage from a Final Attack when Running Away.
+Laser Eyes	Set_Two	card266,purple	Common	Flash Effect	+2									Play on a Combat Disaster. +2 to the Disaster's Attack for the duration of the combat.
+Makkankoupousou	Set_Two	card270,purple	Rare	Flash Effect										Requires Chi Skill. Each successive Round Character remains out of Combat, store an additional 2 points of Character's available Energy for this Attack. Attack = twice total Energy stored. Disregard all of target's Equipment Defense bonuses.
+Meltdown	Set_Two	card272,purple	Rare	Flash Effect										Play before Attacking. A successful Attack (i.e., at least 1 Damage is done) Bonks Character or defeats Disaster.
+Mindtap	Set_Two	card274,purple	Rare	Flash Effect									Viewing	Requires ESP Skill in play. Look at top 4 cards in another player's Draw pile. Then, put them back in the same order.
+Moon Destruction	Set_Two	card278,purple	Common	Flash Effect										Requires Attack > 7 or Planetary ability & Attack > 4. Cancels 1 Full Moon or False Moon or defeats 1 Planetary Disaster.
+Mother Instinct	Set_Two	card279,purple	Uncommon	Flash Effect	+3									+3 Attack to any one (1) Character with Teacher skill.
+Out of the Frying Pan	Set_Two	card281,purple	Uncommon	Flash Effect									Move	Swap any one Combat Disaster in play with another Combat Disaster in play.
+Regeneration	Set_Two	card289,purple	Uncommon	Flash Effect					1					Requires Shape Change skill. Immediately restores any non-bonked, living Character's Health to full and grants one additional Attack this round.
+Rescue	Set_Two	card291,purple	Rare	Flash Effect										Choose two cards from your Discard pile and shuffle them back into your Draw pile. (You may not put an Item card into your Draw pile.)
+Shen Lon	Set_Two	card296,purple	Ultra Rare	Flash Effect										Choose 1 of the following: Take any 1 card of your choice from your Draw Pile and play it immediately. Move 1 Disaster to any non-Haven Location. Draw 4 random cards from your Draw pile. Discard any Disasters. Place the rest in your Haven. 1 per deck. No Scavenging next turn.
+Shield	Set_Two	card298,purple	Rare	Flash Effect	0				3					Protects any 1 Character or Disaster from all Damage this round.
+Split Form	Set_Two	card299,purple	Common	Flash Effect	2x									Requires Shape Change or Splitting Skill. 2 Attacks per round for the remainder of this Combat.
+Sunshine Daydream	Set_Two	card304,purple	Uncommon	Flash Effect										Cancels any 1 Holding card. or gives either the Music or Pure Heart Skill to a Character that does not have it.
+Telekinese	Set_Two	card308,purple	Rare	Flash Effect			*		*				Move	A Character may Move one Item from its current Location to an adjacent Location. Energy cost equals the distance to the target Item. The Energy is lost until your next turn. Limit 1 Telekinese per turn.
+Time Out!	Set_Two	card310,purple	Common	Flash Effect									Holding	Either all the Characters or all the Disasters at one Location perform no action for 1 turn.
+Ultimate Sacrifice	Set_Two	card312,purple	Rare	Flash Effect										Kill 1 Character to destroy 1 Combat Disaster.
+Who Sows the Wind	Set_Two	card317,purple	Common	Flash Effect					3					Requires Chi x2 skill. -5 to Attack and Defense of 1 Character or Disaster at this Location for the duration of this Combat.
+Alliance	Set_Two	card321,purple	Promotional	Global Effect										Requires Pure Heart or Blind Luck. At any time during a Combat, teleport any other Player's Character in play to the Location your Characters are at to Ally with your Characters. After Combat is over, the Characters teleports back (if it survives). Limit 3 uses.
+Equipment Retrieval	Set_Two	card330,purple	Uncommon	Global Effect										2 uses. Take any 1 Equipment from your Draw pile and give it to any Character. Re-shuffle Draw pile.
+Final Stand	Set_Two	card331,purple	Promotional	Global Effect										Add 1 Health to all of your Characters at a Location for 1 round. 2 uses.
+Frothy Mugs of Water	Set_Two	card332,purple	Common	Global Effect										Duration: 3 turns. All Killed Characters are Bonked instead, and all Defeated Disasters are re-shuffled into their owners Draw Pile. Limit 1 per deck.
+Great King Yemma	Set_Two	card333,purple	Rare	Global Effect									Ogre, Dimensional	Gives access to any Dimensional Location. 3 uses.
+Guardian of the Earth	Set_Two	card334,purple	Rare	Global Effect										Any of your Characters with the Chi or Martial Arts Skill gain +1 Defense and the Splitting Skill.
+Guru	Set_Two	card335,purple	Rare	Global Effect										During the Equip phase, select any Enhancement card from your Draw Pile and Play it on any Character in a Haven. Re-shuffle your Draw pile. Limit 3 uses.
+Hiding Out	Set_Two	card338,purple	Uncommon	Global Effect										2 uses. Choose a Group: Disasters will skip their Location during a Disaster phase. Limit 1 per deck.
+King Kai	Set_Two	card342,purple	Common	Global Effect										Adds 1 Chi Skill, +1 Attack to your Character with Charm > 3 for the duration of the game. Limit 1 per deck. Gives ESP Skill to any 1 of your Characters once per turn.
+Medical Regenerator	Set_Two	card345,purple	Uncommon	Global Effect										Limit 1 Character at a time: Immediately after a Character of yours is Killed, place it in the Regenerator, rather than in the Discard pile. After 3 turns, you may return the Character to your Haven (with Enhancements), restored to full Health.
+Power Sense	Set_Two	card350,purple	Uncommon	Global Effect										3 uses. Force a player to show you all of the cards they have in play, in their Haven, or in their hand.
+Power Up	Set_Two	card351,purple	Uncommon	Global Effect	+*	+*			-*					Keep a Character out of Combat. Get +1 Attack & Defense per Chi Skill the Character has. Bonus accumulates each successive round Character stays out of Combat at an Energy cost of 1 per round. Bonus lasts remainder of Combat. Limit 1 use per turn.
+Refuge	Set_Two	card353,purple	Rare	Global Effect										You may store 2 Flash Effects here. Place during the Discard phase.
+Slow Moving Traffic	Set_Two	card358,purple	Common	Global Effect			1							3 uses. Any 1 Disaster in play Moves just 1 Location during its next Move phase. Limit 1 per deck.
+Training with Kami	Set_Two	card362,purple	Uncommon	Global Effect										All of your Characters with the Martial Arts Skill gain the Chi Skill for the duration of the game.
+Gohan's Cave	Set_Two	card365,purple	Common	Haven									Haven	Each turn, one of your Characters may add the Survival, Hunter or Climbing Skill.
+King Kai's Bungalow	Set_Two	card366,purple	Uncommon	Haven									Haven	Each turn, one of you Characters may add a Strength, Cooking or ESP Skill.
+Lunch's House	Set_Two	card367,purple	Common	Haven									Haven	Each turn, one of you Characters may add the Communications or Weapons Skill.
+Otherworld Lounge	Set_Two	card370,purple	Uncommon	Haven									Haven	Each turn, one of your Characters may add the Dimensional ability or Magic Skill.
+Roshi's Veranda	Set_Two	card373,purple	Common	Haven									Haven	Each turn, one of your Characters may add the Water Element or Chi Skill.
+West Side City Hospital	Set_Two	card378,purple	Uncommon	Haven									Haven	Characters from this Haven may be placed here immediately when Bonked.
+2 Dragon Balls	Set_Two	card379,purple	Uncommon	Item										Limit 2 per deck.
+3 Dragon Balls	Set_Two	card380,purple	Rare	Item										Limit 1 per deck. If another 3 Dragon Balls has already been turned up, that card is now 3 fake Dragon Balls (it still counts as an Item).
+Baby Dragon	Set_Two	card386,purple	Uncommon	Item									Animal, Magic	+1 Damage, Defense, Movement and Charm to any Character with base Attack of 1.
+Capsule Army Knife	Set_Two	card393,purple	Common	Item										Once per game, retrieve any Equipment under a Location without Scavenging the Location.
+Dragon Ball	Set_Two	card403,purple	Common	Item										Limit 3 per deck.
+Firewood	Set_Two	card406,purple	Common	Item										Gives +2 Attack and Fire Element to the Character carrying it.
+Flying Nimbus	Set_Two	card407,purple	Rare	Item										Any Character with Pure Heart skill carrying this card gets +4 Movement, Flying Skill and Speed while carrying the Nimbus.
+Gohan's Dragon Ball	Set_Two	card412,purple	Promotional	Item										Limit 1 per deck.
+Gohan's Supplies	Set_Two	card413,purple	Common	Item									Food, Clothing	You must show this Item. Gives Medic or Communications or Cooking Skill once per turn. -1 to Movement.
+King Yemma's Fruit	Set_Two	card420,purple	Uncommon	Item									Food	Discard to Double your Health for 3 turns.
+Lemlia	Set_Two	card423,purple	Common	Item									Insect, Alien, Bugrom	Gives Royalty Skill. +1 to Charm. +1 Attack against Insect or Bugrom.
+Mighty Fridge	Set_Two	card427,purple	Common	Item										Discard this to Defeat any 1 Minor Combat Disaster.
+Presents	Set_Two	card435,purple	Uncommon	Item										Once per game, during the Draw phase, you may take one Item from your Discard pile and place it beneath any Location with an unrevealed Disaster.
+Samurai Gohan	Set_Two	card443,purple	Rare	Item										Gives the Weapons, Swordsman and Military Skills to a Character that does not have them.
+Senzu Beans	Set_Two	card444,purple	Rare	Item									Magic, Medical, Food	Discard to restore up to 3 Character to full Health
+Ship's Auto-Toilet	Set_Two	card446,purple	Rare	Item										Once per game, play 1 Equipment as a Flash Effect.
+Sleepy Grass	Set_Two	card447,purple	Common	Item									Magic, Food	Discard to gain first Attack (rather than simultaneous as normal) for the duration of one Combat.
+Tail Steak	Set_Two	card450,purple	Common	Item									Food	+1 to total Health.
+Technological Artifact	Set_Two	card451,purple	Common	Item									Robot	Gives Archaeology Skill. Discard to defeat 1 Non-Combat Disaster.
+Tortoise	Set_Two	card453,purple	Rare	Item										Gives Pure Heart Skill to a Character that does not have it. Gives access to the Kame House Location.
+Alien Jungle	Set_Two	card457,green	Common	Location							Hunter or Survival or Strength		Planetary	
+Alien Landing Site	Set_Two	card458,green	Common	Location							Military & Police & Investigation or Investigation & Tech or Tech & Genius or Alien			
+Arena	Set_Two	card460,green	Common	Location							Swordsman or Chi x3			
+Baseball Stadium	Set_Two	card462,green	Common	Location							Streetwise or Celebrity or Non-flying Vehicle			
+Beware: Bathroom!	Set_Two	card463,green	Common	Location							Investigation or Archaeology			Characters without Fire Element are at -1 Attack & Defense their 1st round of Combat while Scavenging this Location.
+Cafe	Set_Two	card465,green	Common	Location							Streetwise & Celebrity or Music & Cooking			
+Campground	Set_Two	card466,green	Uncommon	Location							Vehicle or remain on Location for 2 turns			
+Capsule Corporation	Set_Two	card467,green	Uncommon	Location							Genius & Tech & Computer or Police & Bureaucracy			A Player who enters this Location may choose 1 piece of Equipment from their Draw pile and play it on any Character here. Re-shuffle the Draw pile.
+Desert Battleground	Set_Two	card476,green	Common	Location							Flying x2 or Survival & Strength			
+Dr. Weelo's Fortress	Set_Two	card479,green	Rare	Location	6	6					Survival & Vehicle or Fire Element or Genius & Mech or Mecha			
+Forest Glade	Set_Two	card481,green	Uncommon	Location							Climbing or Flying or Seduction or Pure Heart			No Vehicles may land on or be used to Scavenge this Location
+Freeza's Ship	Set_Two	card482,green	Rare	Location	9	20					Computer x4 & Genius or Energy > 11			
+Frozen Wastes	Set_Two	card483,green	Common	Location							Survival x2 & Vehicle or Flying & Chi x2 or Fire Element			
+Garlic Jr.'s Palace	Set_Two	card487,green	Uncommon	Location	7	19								Cannot be Scavenged with Skills. You must Attack.
+Goku & Chi-Chi's House	Set_Two	card492,green	Uncommon	Location							Pure Heart or Royalty or Demon			If Chi-Chi is at this location, Combat Disasters' Defense is reduced by half.
+Hong Kong	Set_Two	card495,green	Uncommon	Location							Martial Arts & Celebrity or Bureaucracy x3 or Bureaucracy & Tech			
+Illusionary Castle	Set_Two	card500,green	Common	Location							Investigation x2 or Blind Luck or ability to pierce Illusions			If Magic, ESP or Nanami Jinnai not present, first Combat Disaster encountered while Scavenging will gain +2 Defense while Characters are distracted by imaginary giant.
+Kami's Floating Palace	Set_Two	card505,green	Uncommon	Location							Martial Arts x3 or Chi x2 & Magic or Kami			
+King Kai's Planetoid	Set_Two	card506,green	Rare	Location							Flying & Chi x2 or Bureaucracy & Strength 4+ or King Kai		Dimensional	All Characters without Strength are -1 Attack & Defense due to heavy gravity.
+King Yemma's Palace	Set_Two	card507,green	Common	Location							Phase or Magic or Ogre or Kami		Dimensional	
+Pendulum Training Room	Set_Two	card515,green	Rare	Location							Martial Arts & Magic or Military & Tech or Computer & Phase			After Scavenging, draw 1 random previously discarded Combat Disaster. If you defeat it, your Characters add +1 Attack & Defense the remainder of the game.
+Planet Arlia	Set_Two	card518,green	Common	Location							Swordsman or Insect or Saiyan		Planetary	
+Planet Freeza	Set_Two	card519,green	Common	Location	10	24					Weapons x3 or Royalty & Military or Hunter & Seduction		Planetary	
+Planet Namek	Set_Two	card521,green	Rare	Location							Shape Change or Namek or Pure Heart		Planetary	Any Player who successfuly Scavenges this Location may add 1 Dragon Ball into his or her Haven.
+Planet Vegeta	Set_Two	card522,green	Rare	Location							Saiyan or Archaeology & Strength or Genius & Mech & Pilot or Magic		Planetary	
+Princess Snake's Palace	Set_Two	card523,green	Rare	Location	7	13					Male with Charm > 3 or Priest x2		Dimensional	
+Snake Way	Set_Two	card533,green	Uncommon	Location							Flying & Speed & Chi x2 or Ogre or Magic			
+Dodoria	Set_Two	card563,purple	Common	Major Disaster	9	9	2		4				Alien, Freeza	Moves toward nearest Character. Pursues that Character thereafter, gaining one point of Movement each turn.
+Freeza (1st form)	Set_Two	card568,purple	Rare	Major Disaster	9	11	4							If Freeza engages in Combat, all Freeza Disasters in play Move to him at 2 Moves per round. Any that reach him will Combat for him until they are Defeated.
+Garlic, Jr.	Set_Two	card570,purple	Uncommon	Major Disaster	5/9	5/9	4		5				Demon	If Garlic, Jr. completes 1 circuit of the field, he becomes immortal and trans-forms. After that, if defeated, he is shuffled back into his owners draw pile unless Captured or Exorcised.
+Ginger	Set_Two	card572,purple	Common	Major Disaster	3	3	3						Demon, Swordsman	
+Ginyu	Set_Two	card573,purple	Uncommon	Major Disaster	7	8	3		6				Alien, Freeza	At 1 or 0 Health, Ginyu will possess the Character with highest Attack at this Location. Discard Ginyu, but that Character now acts as a Major Combat Disaster unless freed by a Charm Attack >5.
+Kidnapped	Set_Two	card577,purple	Common	Major Disaster	3	8	4						Holding	Kidnaps the first Character it passes with Attack < 4. Kidnapped Character moves with Disaster, but is not involved in combat. Rescue by Defeating.
+Kids These Days	Set_Two	card578,purple	Promotional	Major Disaster	6	4	4	3					Alien, Horde	Successful Charm Attack against this Disaster halves its Damage and Defense for one Combat round.
+Nappa	Set_Two	card584,purple	Common	Major Disaster	6/9	8/12	3		5				Saiyan, Military	Transforms if Full Moon is in play. If Genius present, reduce Nappa's Attack and Defense by 2 (no add'l reduction for add'l Genius).
+Princess Snake	Set_Two	card589,purple	Uncommon	Major Disaster	3	4	3	6					Holding, Illusion, Dimensional	Only Charm Attacks males. Charmed Characters drop all Items and Equipment and follow her until freed by Charm Attack >7. If she fails to Charm any males at a Location, she transforms and Attacks physically. If only females are present, she combats untransformed.
+Raditz	Set_Two	card592,purple	Common	Major Disaster	7/9	7/12	3	3	4/0				Saiyan	Transforms if Full Moon is in play.
+Raiichi & Zaakro	Set_Two	card593,purple	Common	Major Disaster			3						Alien, Illusion	Characters must play Rock/Scissors/Paper. Losers have no further action this turn and are Captured by R&Z for 2 turns. Streetwise Defeats.
+Recoom	Set_Two	card594,purple	Common	Major Disaster	5	6	4						Alien, Freeza	Health = 14.
+Sabre-toothed Tiger	Set_Two	card596,purple	Common	Major Disaster	3	3	3						Animal	
+Tares	Set_Two	card601,purple	Rare	Major Disaster	5/11	6/12	3		4/0				Saiyan	Transforms if the Shinseiju Fruit is in play.
+The Dead Zone	Set_Two	card602,purple	Uncommon	Major Disaster										Play on nearest non-Dimensional Location. All Characters without Strength within 2 Locations are Bonked. Magic & Streght defeats.
+Vegeta	Set_Two	card607,purple	Uncommon	Major Disaster	8/11	9/13	3		5/0				Saiyan	Takes and uses Enhancements from Character(s) he defeats.
+Acid Head	Set_Two	card611,purple	Uncommon	Minor Disaster	3		4						Alien, Freeza	Unless Held, Moves to 1 Location away from Character(s) with Item(s), and Attacks from there. Attacks for 3 rounds, then discard.
+Asteroid Field	Set_Two	card616,purple	Uncommon	Minor Disaster										Discard all Planetary Vehicles in play unless Pilot x2 is present at Location with Vehicle.
+Baby Saiyan	Set_Two	card619,purple	Rare	Minor Disaster	3/7	3/8	2/3	5/0					Saiyan	Transforms to Were-form (right hand Ability stats) if Full Moon is in play.
+Catch Bubbles	Set_Two	card627,purple	Rare	Minor Disaster			5(+1*)							Steals 1 Item from nearest Character having an Item. Defeat by catching; this Character gets the Item and gains +1 Attack for the remainder of the game.
+Demon Hordes	Set_Two	card633,purple	Uncommon	Minor Disaster									Demon, Horde	Play Off the Field. Attaches to first Demon, Horde or Undead Disaster that comes into Play. Disaster gets +2 to all Abilities.
+Don't be a dummy	Set_Two	card638,purple	Common	Minor Disaster									Move	All non-flying Vehicles in play drop below the Location they are at, and the Characters owning them are Moved 1 Location to the left (i.e., flung from the seat by an insane driver).
+Dr. Weelo	Set_Two	card639,purple	Rare	Minor Disaster	2/8	5/8	2/5						Mecha, Computer, Planetary	If Dr. Weelo is reduced to <3 Health, he transforms to Planetary Attack form with higher Damage & Movement Stats, and becomes a Major Disaster.
+Dr. Weelo's Bio Men	Set_Two	card640,purple	Uncommon	Minor Disaster	3	5	3						Android, Horde	
+Ebi-Furiya	Set_Two	card641,purple	Uncommon	Minor Disaster	5	6	3						Android	Each successful Attack by Ebi-Furiya reduces opponent's Movement by 1. If opponent's Movement drops to 0, opponent is frozen until freed by an Attack > 10 or Fire Element.
+Excessive Gravity	Set_Two	card642,purple	Uncommon	Minor Disaster									Holding	Characters without Strength x2 Skill or Movement > 5 are rendered unable to Attack or Move for 2 turns.
+Full Moon	Set_Two	card647,purple	Uncommon	Minor Disaster			4							Moves Once. All Saiyans in play transform to Were-form. Planetary & Attack > 3 or Attack > 7 to Defeat.
+Goz	Set_Two	card651,purple	Common	Minor Disaster	3	4	2						Ogre	You may bribe Goz by giving him 1 Item or Equipment from a Character at his Location (he immediately takes a full Movement without attacking).
+Guldo	Set_Two	card652,purple	Common	Minor Disaster	2	3	1						Alien, Freeza, Dimensional	Health = 2. If Guldo takes no damage for 2 rounds, two random Characters at the Location will have no action for the duration of Combat.
+Homework	Set_Two	card655,purple	Common	Minor Disaster									Teacher, Holding	Play Off the Field. Students in play cannot move. Duration: 3 turns.
+Hungry Dinosaur	Set_Two	card658,purple	Common	Minor Disaster	3	3	2						Animal	If you defeat this Disaster, you may keep it and use it as a Food card.
+Ibuprofen And Quickly!	Set_Two	card659,purple	Uncommon	Minor Disaster										All Characters at this Location are -2 Defense against the next Combat Disaster they meet. If Medic Skill is present, they will only be -1 Defense.
+Impending Doom	Set_Two	card660,purple	Uncommon	Minor Disaster										Draw until you get a Combat Disaster, then reshuffle your Draw pile, except the Disaster you just drew. That Disaster moves immediately to this Location and Attacks your group.
+Kishiime	Set_Two	card664,purple	Common	Minor Disaster	5	6	3						Android	Speed required to Damage Kishiime.
+Loner	Set_Two	card669,purple	Uncommon	Minor Disaster										Your most powerful Character at this Location must leave the Group and cannot act in combination with any other Character's until it is at a Location with Characters that have a combined Charm > 12.
+Mez	Set_Two	card671,purple	Common	Minor Disaster			3						Ogre, Dimensional	Stops Moving if he passes a Location with Characters. Characters must each have Speed x2, Movement > 3, (or be in a Vehicle with Movement > 3) to leave Location. Then he starts Moving again.
+Miso-Cutsun	Set_Two	card672,purple	Uncommon	Minor Disaster	4	6	3						Android, Shape Change	Attacks on Miso-Cutsun which do not do at least 1 Damage to Health, do 2 Damage to its Attacker's Health.
+Mystery Foe	Set_Two	card674,purple	Rare	Minor Disaster										Allies with nearest Combat Disaster. That Disaster gets 2 Attacks per round during its next Combat.
+No Help!	Set_Two	card676,purple	Uncommon	Minor Disaster										Play Off the Field. Duration = 2 turns. Characters can't join a Group they are not already in. Only 1 Character may enter the Field per Player per turn. No Group may help another in Scavenging or Combat.
+Overload	Set_Two	card681,purple	Common	Minor Disaster										Nearest piece of Equipment is destroyed and Character carrying it is bonked. If multiple pieces of Equipment are equidistant, choose from among them randomly. Discard Disaster.
+Property Damage	Set_Two	card684,purple	Uncommon	Minor Disaster		8	4							Moves 3 times. On third movement, it Destroys everything at that Location, then Discard.
+Pterodactyl	Set_Two	card685,purple	Common	Minor Disaster	2	3	3						Animal, Flying Vehicle	If in Combat you reduce this Disaster's Health to exactly 0, you may use it as a Flying Vehicle which can carry up to 3 Characters with their Equipment.
+Saibamen	Set_Two	card693,purple	Uncommon	Minor Disaster	4	5	1		3				Alien, Horde	Will Attack two Characters (if present) simultaneously (at full Damage), per round. Draw a Combat card for each Attack.
+Shinseiju Tree	Set_Two	card694,purple	Rare	Minor Disaster										Moves to nearest non-Planetary, non-Dimensional Location. All Characters in play lose 2 Energy. Fire Element x2 or Priest x2 or Energy > 15 at this Location to defeat. If Tares comes into play and is defeated, discard this card.
+Squeeeeeeeeeze!	Set_Two	card700,purple	Uncommon	Minor Disaster			3							Character with highest total Attack & Defense at this Location takes 5 Damage to its Health. If it survives, it is -3 Defense during its next combat.
+The Pit	Set_Two	card707,purple	Common	Minor Disaster	3	3	2							Moves Once. Only 1 Character may combat this Disaster at a time.
+Watch that 1st step...	Set_Two	card715,purple	Uncommon	Minor Disaster										Any Characters at this Location without Flying Skill immediately take 2 Damage directly to their Health. This damage does not heal until the end of the turn.
+Willpower	Set_Two	card716,purple	Uncommon	Minor Disaster										Play Off the Field. The next 3 Disasters turned up are shuffled back into their owner's Draw Piles when they are Defeated, rather than being Discarded.
+Zarbon	Set_Two	card719,purple	Rare	Minor Disaster	6/10	6/10	4	5/-1					Alien, Freeza	Transforms after 2 rounds of Physical Combat.
+Back Kick / Sense of Wonder	Set_Two	card723,red	Uncommon	Combat										Add 3 to your Attack.Draw another Combat card.
+Be with you... / Hangin' Around	Set_Two	card725,red	Common	Combat										Your Attack this round is 0. Add 1 to your Defense.
+Bench Brawl / Tantrum	Set_Two	card726,red	Uncommon	Combat										Add 1 to your Attack, per Character at Location.
+Berserk / Disco Groove	Set_Two	card727,red	Uncommon	Combat										Add 4 to your Attack. Subtract 2 from your Defense.
+Confusion / Voyeur	Set_Two	card734,red	Promotional	Combat										Subtract 3 from your opponent's Attack.
+Crushing Left / Say Cheese!	Set_Two	card735,red	Uncommon	Combat										Add 2 to your Attack.
+Devastating Attack / Sinister Beauty	Set_Two	card738,red	Common	Combat		-2*								Subtract 2 from your Defense, 4 if opponent is Flying.
+Double Blow / Gusto	Set_Two	card740,red	Common	Combat										1 additional Attack this round. Draw another Combat card.
+Drop Kick / Sorrow	Set_Two	card741,red	Common	Combat										Add 3 to your Attack.
+Films about gladiators / Dork	Set_Two	card744,red	Uncommon	Combat										Add 1 to your Attack.
+Flying Kick / 15 Minutes	Set_Two	card745,red	Common	Combat										Add 1 to your Attack.
+Fried / Lead Balloon	Set_Two	card746,red	Common	Combat										Subtract 4 from your Defense.
+Grace / Poise	Set_Two	card749,red	Common	Combat										Subtract 2 from your Attack and Defense.
+Gut Punch / Only a Mother	Set_Two	card750,red	Common	Combat										Add 2 to your Attack.
+Head Butt / Sad Eyes	Set_Two	card752,red	Common	Combat										Add 3 to your Attack.
+In my sights / Zen Experience	Set_Two	card753,red	Common	Combat										Add 3 to your Attack, 5 if you have Weapons.
+Incoming! / Cowardice	Set_Two	card754,red	Common	Combat										Subtract 3 from your Defense.
+Just A Trim / Say it, don't spray it!	Set_Two	card756,red	Common	Combat										Add 2 to your Defense.
+Leg Sweep / Why, you little devil	Set_Two	card760,red	Common	Combat										Divide your opponent's Defense by 2.
+Lunch Break / All Dressed Up	Set_Two	card761,red	Uncommon	Combat										Restore both you and your opponent's health to full.
+Ooooh, I got me! / Tango	Set_Two	card763,red	Uncommon	Combat										Subtract your total Attack from your total Defense.
+Pinned / Well, it's like this...	Set_Two	card767,red	Common	Combat										Subtract 2 from your Defense, 4 if opponent has Strength.
+Pummel / What'd YOU have for lunch?	Set_Two	card768,red	Common	Combat										Add 4 to your Attack & 1 for every point of available Energy.
+Screwed / Hero	Set_Two	card771,red	Uncommon	Combat										Divide your Defense by 3 for the rest of Combat.
+Shock / Flowers	Set_Two	card773,red	Common	Combat										Your opponent gets an additional attack this Round.
+Too much sun / Nabbed	Set_Two	card782,red	Common	Combat										Your Defense is 0.
+Wild Swing / Begging for Mercy	Set_Two	card786,red	Common	Combat										Add 2 to your Attack. Subtract 2 from your Defense.
+Yipes! / Happy 2 CU	Set_Two	card787,red	Common	Combat										Add 1 to your Defense.

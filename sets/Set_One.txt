@@ -1,0 +1,221 @@
+Name	Set	ImageFile	Rarity	Type	Attack	Defense	Movement	Charm	Energy	Skills	Requirements	Uses	Categories	Instructions
+A-ko Magami	Set_One	card001,purple	Common	Character	4	4	4	3	0	Student, Strength x3, Acrobatics, Communications				
+Agent "D"	Set_One	card004,purple	Common	Character	3	3	2	2	0	Investigation, Survival, Swordsman, Hunter			Alien	Won't attack anyone with Royalty.
+Al	Set_One	card006,purple	Common	Character	2	2	2	3	0	Police, Mech, Tech, Driving				Once per game, Al can prevent a non-flying vehicle from being destroyed.
+Annapuna	Set_One	card008,purple	Common	Character	3	3	3	4	0	Acrobatics, Streetwise, Seduction, Music			Android	When at some Location with Unipuma, +1 to Anna's Defense.
+Ayaka Kisaragi	Set_One	card011,purple	Common	Character	3	2	3	3	3	Investigation, Climbing, Acrobatics, Magic, Blind Luck, Music -1				+1 Damage & Defense vs. Demon, Devil, and Spirit cards.
+B-ko Daitokuji	Set_One	card012,purple	Common	Character	2	2	2	3	0	Student, Mech, Tech, Genius, Computer				
+Captain Napolipolita	Set_One	card017,purple	Uncommon	Character	2	3	2	2	0	Military, Communications, Bureaucracy, Marksman -1			Alien	
+Chaplain	Set_One	card018,purple	Uncommon	Character	2	2	2	3	0	Police, Priest, Streetwise, Savoir-Faire				
+Eddie	Set_One	card026,purple	Uncommon	Character	2	2	2	2	0	Computer, Investigation, Police, Communications			Science	
+Julian "Pluto" Moore	Set_One	card036,purple	Uncommon	Character	1	3	2	3	0	Computer x2, Genius, Communications, Student			Android	Health 6.
+Kozo Karino	Set_One	card040,purple	Common	Character	2	2	3	2	0	Police, Investigation, Savoir-Faire, Streetwise				Kozo may Scavenge ANY police Location without meeting any requirements. Remove food Items from game that Kozo comes in contact with.
+Leona Ozaki	Set_One	card043,purple	Common	Character	2	3	2	3	0	Police, Mech, Driving, Survival				Counts toward 1 "Male" requirement for Scavenging a Location.
+Lt. Randolph	Set_One	card047,purple	Rare	Character	2	3	2	2	0	Bureaucracy, Police x2, Streetwise				Can defeat any Legal Disaster. May choose not to be affected by any Legal card.
+Mamoru Shimesu	Set_One	card052,purple	Uncommon	Character	1	2	2	3	0	Computer, Investigation, Communications, Cooking				
+Miss Ayumi	Set_One	card054,purple	Rare	Character	1	2	3	4	0	Teacher, Driving, Seduction				Miss Ayumi may ignore any School Disaster.
+Nanami Rokugo	Set_One	card063,purple	Rare	Character	1	2	2	3	4	Student, Fire Element, Cooking				May only use Fire Energy effects. When Nanami plays an Energy Attack, everyone at Location except target plays Rock/Paper/Scissors. If they lose, they take 1/2 damage. Target always takes full damage. Nanami is unaffected.
+Naomi Armitage	Set_One	card064,purple	Common	Character	4	3	3	2	0	Police, Investigation, Strength, Marksman			Android	Health 8. Can be brought back from Killed once per game.
+Rokkon	Set_One	card076,purple	Common	Character	3	3	2	3	3	Priest, Strength, Climbing, Magic				+1 Energy when attacking any Devil, Demon, or Spirit card.
+Ross Sylibus	Set_One	card077,purple	Common	Character	4	3	3	3	0	Investigation x2, Police, Streetwise, Driving			Cyborg	
+Specs	Set_One	card085,purple	Common	Character	2	2	2	2	0	Police, Investigation, Communications				Can use any Science card without fulfilling the requirements.
+Squad Leader Britain	Set_One	card086,purple	Rare	Character	3	2	2	2	0	Police, Survival, Blind Luck				
+Unipuma	Set_One	card096,purple	Common	Character	3	3	3	4	0	Acrobatics, Streetwise, Seduction, Music			Android	When at same Location with Annapuna, add 1 to Uni's Attack.
+Young Belldandy	Set_One	card100,purple	Rare	Character	1	2	2	4	4	Magic, Phase, Music			Godling	May stay on the Field no more than 4 Turns without returning to Haven. If Still on Field at the end of 4th turn, Bonk.
+A Goddess' Kiss	Set_One	card102,purple	Rare	Enhancement	+1		+1						Move	Add 1 to Attack and Movement.
+Akagiyama Missiles	Set_One	card103,purple	Rare	Enhancement	+3						Battlesuit or Robot or Android or Cyborg	2	Missile, Weapon	May only be played with battlesuits or on Robot, Android or Cyborg type Characters.
+Data Stream	Set_One	card108,purple	Rare	Enhancement							Computer		Computer, Science	Use any 1 skill from any of your Characters on the Field or in your Haven that have the Computer skill.
+Exorcism Circle	Set_One	card110,purple	Rare	Enhancement					4			1	Magic	For the cost of 4 Energy, discard 1 Disaster.
+Inhuman Strength	Set_One	card118,purple	Rare	Enhancement									Science	Gives a Character the Strength skill or adds +1 to an existing Strength skill.
+Jacking In	Set_One	card120,purple	Uncommon	Enhancement							Computer		Computer, Science	Character with Computer skill may look at any card under a Location requiring a Computer skill to Scavenge.
+Patiently Waiting	Set_One	card132,purple	Rare	Enhancement									Holding	Hold a Disaster at your Location until another Character enters your Location. Maximum time Disaster can be held is 3 turns.
+Peep Hole	Set_One	card133,purple	Rare	Enhancement									View	Allows you to look at a random card in either your draw pile or an opponent's hand.
+Pleasure Treatment	Set_One	card136,purple	Common	Enhancement									Robot	Boosts a Character's Health by 2 while in play.
+Police Forensics Expert	Set_One	card138,purple	Rare	Enhancement									Police, Medical, Science	Gives Computer and Medic skills to a Character.
+Robot Flight Crew	Set_One	card140,purple	Uncommon	Enhancement									Robot, Science	Play on Flying Vehicle to satisfy Pilot requirement.
+Robot Guard	Set_One	card141,purple	Uncommon	Enhancement	4	5						1	Robot	Use to attack an Opponent's group of Characters as if it were a Disaster. It will not steal an Item.
+Speed	Set_One	card143,purple	Uncommon	Enhancement			x2					3	Move	Doubles a Character's movement.
+Turbo Boost	Set_One	card151,purple	Uncommon	Enhancement			+1						Move	Add 1 to the movement of any non-Flying Vehicle
+Wrist Lasers	Set_One	card155,purple	Uncommon	Enhancement	+2						Robot or Cyborg or Android	4	Missile, Weapon	Wrist Lasers may not be reloaded.
+Akagiyama 23	Set_One	card159,purple	Uncommon	Equipment	+1	+1	+1	+1			Pilot or Mech		Flying, Battlesuit, Clothing	Skills: Flying & Acrobatics B-ko gets +2 to Attack & Defense.
+Bio-Ball Remover	Set_One	card163,purple	Uncommon	Equipment									Medical, Science	Immediately remove Bio-Ball Disaster from a Character.
+Bonaparte	Set_One	card165,purple	Rare	Equipment	5	5	4	3			Driving		Vehicle, Police	Carries 2 Characters with Equipment. Bonaparte is unaffected by Move cards.
+Comm Goggles	Set_One	card166,purple	Uncommon	Equipment									Computer, View	Skill: Communications Gives 1 Character the Communications skill.
+Comm Phone	Set_One	card167,purple	Rare	Equipment								2	Computer	Bring back 1 Enhancement card from Discard Pile to your hand. Discard or Reload.
+Computer Link	Set_One	card168,purple	Common	Equipment									Computer	1 Character may access any Dimensional Location and gains 'Robot' category.
+Electronic Day Planner	Set_One	card174,purple	Rare	Equipment								2	Computer	On Locations requiring more than 1 skill, you may ignore any one skill requirement that you wish.
+Jet Pack	Set_One	card181,purple	Uncommon	Equipment			+1						Flying	Skill: Flying Give 1 Character the Flying skill and add 1 to Movement.
+Mars Shuttle	Set_One	card191,purple	Uncommon	Equipment			2				Pilot		Flying, Vehicle, Planetary	Can carry 5 Characters plus 1 vehicle.
+Medical Scanner	Set_One	card192,purple	Uncommon	Equipment								3	Medical, Computer, Science	Equip any weapon from your hand at Character's present Location as a Flash Effect.
+Pedal Copter	Set_One	card196,purple	Common	Equipment							Strength		Flying, Vehicle	Can carry 5 Characters without Equipment or 3 Characters with Equipment.
+Red Dragon Spirit Capture Star Sword	Set_One	card201,purple	Uncommon	Equipment	+1				1				Magic, Weapon	For a cost of 1 Energy, add 1 to your Attack. If Character has Magic skill, add 2 to your Attack instead of 1.
+Robot Slave	Set_One	card203,purple	Rare	Equipment									Robot	Discard to prevent a Character from being Bonked or Killed once.
+Ross' Battle Suit	Set_One	card205,purple	Rare	Equipment	6	4	3				Police or Pilot		Battlesuit	When worn, use Battle Suit's stats instead of Characters. When Battle Suit has taken 8 points of Damage, discard.
+Swamp Boat	Set_One	card210,purple	Rare	Equipment									Vehicle	May Scavenge any Swamp or Water Location without the required skills.
+Tracer Bug	Set_One	card213,purple	Common	Equipment									Computer	Retrieve 1 piece of Equipment from your discard pile and place in your Haven.
+Assault with Intent to Kill	Set_One	card221,purple	Rare	Flash Effect										Gain access to any Haven. Limit 1 per deck. Remove from game after use.
+Assisted Shot	Set_One	card223,purple	Common	Flash Effect	+2									+2 to attack with a missile weapon. +3 if Julian is at the Location. Or, gives Marksman skill for 1 Location Scavenge attempt.
+Avoid Fire	Set_One	card224,purple	Uncommon	Flash Effect										Prevent any damage to any Equipment from Weapons.
+Back to Reality	Set_One	card225,purple	Rare	Flash Effect									Computer	Cause Opponent to discard 1 random card from their hand.
+Blown Main CPU	Set_One	card228,purple	Common	Flash Effect									Computer, Science	Remove 1 random Science or Computer card from play.
+Broken Back	Set_One	card229,purple	Rare	Flash Effect										Opponent unable to perform any action for 1 turn. May only use Equipment for defense (no combat cards allowed).
+Call To God	Set_One	card230,purple	Rare	Flash Effect							Communications		Godling	Prevent any Spell type card or Effect when cast.
+Crazy Eyes	Set_One	card232,purple	Uncommon	Flash Effect									Fear	Draw 1 additional Combat card.
+Daylight	Set_One	card233,purple	Uncommon	Flash Effect	+3									Play this card on any Undead opponent to do 3 Damage or cancel any Undead effect card.
+Don't Move	Set_One	card237,purple	Common	Flash Effect									Holding	Cancel the effect of 1 Move card.
+Emergency Stop	Set_One	card238,purple	Common	Flash Effect										Use to discard an Enhancement or Global card with the Science symbol or category.
+Following Orders	Set_One	card245,purple	Uncommon	Flash Effect									Police	Reverse the results of 1 Charm combat.
+Forceful Passage	Set_One	card246,purple	Rare	Flash Effect										Allows group to free a blocked Location. Discard Blocking card.
+Get Around	Set_One	card249,purple	Rare	Flash Effect										Scavenge any Location with Attack & Health (if Health is less than 10) without the necessary skills.
+Grab 'n Run	Set_One	card252,purple	Common	Flash Effect										Take 1 Item from group in flying vehicle and send them back to Haven.
+Hidden Weapon	Set_One	card255,purple	Uncommon	Flash Effect										Equip any Character on the Field with any Weapon from your Draw Pile or your hand. Reshuffle Draw Pile if card is taken from it.
+I've Been Waiting for You	Set_One	card257,purple	Rare	Flash Effect										Prevent an opponent from running away from combat.
+Introduction	Set_One	card258,purple	Rare	Flash Effect										Delays opponent one combat round (no action except defense).
+Karaoke Taxi	Set_One	card263,purple	Uncommon	Flash Effect									Vehicle, Music	Play on opponent to remove the Music skill for 2 of their turns.
+Last Chance to Confess	Set_One	card267,purple	Uncommon	Flash Effect									Police	Stops the effects of 1 Police type card except Disasters.
+Loving You	Set_One	card268,purple	Rare	Flash Effect				+3						Add 3 to your Charm when combating Robots, Androids or Cyborgs.
+Lucky Shot	Set_One	card269,purple	Rare	Flash Effect										Remove any Weapon from play.
+Minor Injury	Set_One	card275,purple	Rare	Flash Effect	+2	-1								Add 2 to Damage and subtract 1 from defense for 1 combat round.
+Missile Walk	Set_One	card277,purple	Uncommon	Flash Effect							Movement 4+		Move	Take no damage from weapons for 1 combat.
+Over the Edge	Set_One	card282,purple	Rare	Flash Effect									Unique	Discard 1 Disaster. Remove this card from game after use. Limit 1 per player.
+Panic Attack	Set_One	card283,purple	Common	Flash Effect	+2				2		Fire Element		Fear, Fire	For the Cost of 2 Energy, add 2 to an attack.
+Pentacle	Set_One	card285,purple	Uncommon	Flash Effect					2				Magic	Play to negate 1 Energy Attack or remove an existing Energy effect for the cost of 2 Energy.
+Power Push	Set_One	card288,purple	Rare	Flash Effect									Move	Move an opponent 1 Location in any direction.
+Rock/Paper/Scissors	Set_One	card293,purple	Common	Flash Effect										Play rock/paper/scissors with an opponent. If you win, delay opponent for 1 turn.
+'Scuse Us	Set_One	card295,purple	Common	Flash Effect										Use to discard any Move or Holding card in play.
+Striptease	Set_One	card302,purple	Uncommon	Flash Effect									Clothing, Holding	Males are unable to Scavenge or help in Combat.
+Take Your Best Shot	Set_One	card306,purple	Common	Flash Effect	+1	+1								Add 1 to Attack and Defense.
+Wake Up Call	Set_One	card313,purple	Common	Flash Effect									Gift	Use to discard 1 Holding card in play.
+Acrophobia	Set_One	card320,purple	Uncommon	Global Effect								4	Fear	Remove Climbing or Flying from any Character for 1 turn.
+Breaking and Entering	Set_One	card322,purple	Rare	Global Effect										Enter any Location with only 1 of the required skills.
+Classy Crooks	Set_One	card325,purple	Uncommon	Global Effect							Police or Streetwise		Police	Disasters may not steal Gift or Clothing Items. Limit 1 per deck.
+Elite Medical Staff	Set_One	card329,purple	Rare	Global Effect								2	Medical	Shuffle any Killed Character back into your Draw Pile.
+Happy Students	Set_One	card337,purple	Uncommon	Global Effect									School	All Students may ignore School Disasters and effects.
+Interrogation	Set_One	card340,purple	Uncommon	Global Effect								2	Fear, Police	Steal an Item from an opponent at your Location. Limit 1 per deck. Remove from game after 2nd use.
+Late for School	Set_One	card343,purple	Uncommon	Global Effect			+1						Move	All Students add 1 to Movement.
+Ready to Go	Set_One	card352,purple	Common	Global Effect			+3					3	Vehicle, Move, Police	Add 3 to the Movement of a non-flying Vehicle
+Security Camera	Set_One	card356,purple	Uncommon	Global Effect								3	Computer, View	Look at top card of any Pile.
+Shortcut	Set_One	card357,purple	Uncommon	Global Effect									Move	Go directly to one Location. Limit two per deck.
+Tender Moment	Set_One	card361,purple	Rare	Global Effect				+1						All Characters gain +1 to Charm. Non-cumulative.
+A-ko's House	Set_One	card363,purple	Common	Haven									Haven	Allows 1 Character per turn to add the Strength skill for 1 turn.
+Phantom Quest Corporation	Set_One	card371,purple	Common	Haven									Haven	One Character from this Haven may choose to ignore Spirit cards.
+Ross' Apartment	Set_One	card374,purple	Common	Haven									Haven	Choose 1 Character per game from this Haven to be unaffected by Robot cards.
+Squad Bay	Set_One	card375,purple	Common	Haven									Haven	Characters from this Haven may Equip any non-flying vehicle anywhere on the Field once per turn.
+Alarm Clock	Set_One	card382,purple	Common	Item										Use to Scavenge 1 Dream Location per game without meeting ANY requirements.
+Ancient Pottery	Set_One	card383,purple	Uncommon	Item									, Gift	One Character gains the Archaeology or adds 1 to an existing Archaeology skill when carrying this Item.
+Antiques	Set_One	card384,purple	Common	Item									Gift, Money	Allows you to Scavenge any Museum Location without the required skills.
+B-ko's English Textbook	Set_One	card385,purple	Uncommon	Item									Knowledge	When in a Students possession, allows you to Scavenge any School Location.
+Bills and Calculator	Set_One	card388,purple	Uncommon	Item									Money	Holder cannot be attacked by Money Disasters.
+Breather Mask	Set_One	card389,purple	Common	Item									Clothing	User is unaffected by Vapor cards.
+C-ko Kotobuki	Set_One	card391,purple	Uncommon	Item	-1								Cute	While in possession minus 1 to all your Attacks. Counts as 2 Items for final Item tally.
+C-ko's Lunch	Set_One	card392,purple	Common	Item									Food	
+Compact	Set_One	card396,purple	Uncommon	Item				+1					Clothing	Add 1 to Charm of a female Character in possession of this Item.
+Cross	Set_One	card397,purple	Common	Item		+2							Gift	Minus 2 damage from all Undead or Spirit Disaster attacks.
+Dirty Laundry	Set_One	card402,purple	Rare	Item									Clothing	
+Earrings	Set_One	card404,purple	Rare	Item									Clothing	
+Family Picture	Set_One	card405,purple	Uncommon	Item										
+Glass of Wine	Set_One	card410,purple	Uncommon	Item									Food	
+Group Photo	Set_One	card414,purple	Rare	Item										When in your possession, group cannot be divided or members returned to Havens who aren't bonked or killed.
+Kelly McCanon Poster	Set_One	card418,purple	Uncommon	Item									Music	Use to Scavenge Country Bar Location. Defeats any Music Disaster.
+Lab Computers	Set_One	card422,purple	Uncommon	Item									Computer, Medical	
+Mecha Plans	Set_One	card426,purple	Rare	Item	+1								Science	Adds 1 to Attack to 1 Mecha / Battlesuit in party.
+Phobian	Set_One	card432,purple	Uncommon	Item									Android, Science	Allows you to complete any Tree Location.
+Project Greenpeace	Set_One	card437,purple	Uncommon	Item									Science	
+Spirit Protection Tablet	Set_One	card449,purple	Uncommon	Item	*	1			*				Spirit, Magic	Adds 1 to Defense for bearer against Spirit, Demon or Devil type cards. Use Energy to add to Attack, where the Damage bonus is Equal to the Energy expended.
+Training Book	Set_One	card454,purple	Common	Item									Police, Knowledge	+1 Damage while in your possession.
+Alien Ship	Set_One	card459,green	Rare	Location							Flying & Strength & Weapon or Flying & Strength x2		Alien, Planetary	
+B-ko's Bath	Set_One	card461,green	Rare	Location							Seduction & Peeping or B-ko Daitokuji		Hot Tub	
+Cathedral	Set_One	card468,green	Rare	Location							Investigation or Priest			
+Computer Core	Set_One	card471,green	Uncommon	Location							Computer & Investigation or Computer x2 & Genius		Computer, Dimensional	
+Conception Building	Set_One	card472,green	Common	Location							Computer x2 or Computer & Communications		Robot, Computer	
+Country Bar	Set_One	card473,green	Rare	Location							Music or Investigation		Music	
+Danich Hill Dome	Set_One	card475,green	Rare	Location							Genius & Tech & Computer or Police x2 & Investigation		Science	
+Graviton City	Set_One	card493,green	Rare	Location							Tech & Computer or Communications & Movement 3+			
+Graviton High School for Girls	Set_One	card494,green	Common	Location							Student & Mech or Student & Tech or Teacher		School	
+Hu-Gite Manufacturing	Set_One	card498,green	Rare	Location							Robot & Android & Cyborg or Computer & Bureaucracy		Computer, Android	
+Julian's Gravesite	Set_One	card502,green	Rare	Location							Police x2			You may discard Julian to discard 1 random Disaster from under this Location.
+Junk Yard	Set_One	card503,green	Common	Location							Police & Mech or Police & Priest			
+Martian Police Department	Set_One	card508,green	Uncommon	Location							Police & Investigation or Police & Bureaucracy or Military & Bureaucracy		Police	
+Memory Bank IO Room	Set_One	card510,green	Common	Location							Computer x2 & Genius or Robot & Computer & Investigation		Computer	
+Murder Scene	Set_One	card512,green	Uncommon	Location							Police x2 & Investigation		Police	
+Museum	Set_One	card513,green	Uncommon	Location							Police & Vehicle or Archaeology		Museum	
+Phone Booth	Set_One	card517,green	Common	Location							Communications & Non-flying Vehicle		Money	
+Sewer	Set_One	card529,green	Uncommon	Location							Streetwise or Strength		Swamp, Water	
+Shinjuku Police Building	Set_One	card530,green	Rare	Location							Police or Investigation or Blind Luck		Police	Kozo Karino cannot Scavenge this Location.
+Shinora Hospital	Set_One	card532,green	Common	Location							Medic & Police or Medic & Military		Medical	
+Space Station	Set_One	card535,green	Rare	Location							Military or Alien		Planetary	
+St. Lowell Spaceport	Set_One	card538,green	Uncommon	Location							Pilot or Mech & Savoir-Faire or Mech & Streetwise			
+Swimming Pool	Set_One	card540,green	Uncommon	Location							Student & Survival or Peeping		Hot Tub	
+Tank Police HQ	Set_One	card541,green	Common	Location							Police or Male x2		Police	Over 1/2 the Characters Scavenging this Location must have the Police skill.
+Tea Room Transylvania	Set_One	card542,green	Common	Location							Investigation or Student or Money		Food	
+Unfinished Building	Set_One	card551,green	Common	Location							Tech & Climbing or Tech & Flying or Armitage			
+Alien Battleship	Set_One	card554,purple	Uncommon	Major Disaster			5						Alien, Flying, Vehicle, Planetary	If you have a planetary vehicle, you must play rock/paper/scissors against it to defeat. If it wins, discard your planetary vehicle. If Character wins, discard Disaster.
+Alien Invasion Force	Set_One	card555,purple	Uncommon	Major Disaster	6	5	2						Alien, Horde	Automatically attacks anyone with a Charm > 5 or Royalty.
+Assassin-Bot (Aqua Augmentation)	Set_One	card556,purple	Uncommon	Major Disaster	5	5	5						Android, Mecha	Add 1 to its Defense against Missile Weapons. When defeated, 1 random Character is Bonked unless Character can defeat a Holding card.
+Assassin-Bot (Land Augmented)	Set_One	card557,purple	Uncommon	Major Disaster	7	8	5						Android, Mecha, Science	
+Dr. Rene D'anclaude	Set_One	card564,purple	Uncommon	Major Disaster									Ruler, Science	Play off Field Stays in play for 3 turns. Gives Assassin-bots +3 to Attack, Robots +2 to Attack, and all other Disasters +1 to Attack. Bonk your Armitage to defeat or fight and Bonk another Armitage to defeat.
+Dracula	Set_One	card565,purple	Common	Major Disaster	6	5	3						Undead	Any Character Killed by this Disaster immediately comes back as an Undead Disaster. With any Equipment they had when killed and double the Damage and Defense scores.
+Mad Doctor	Set_One	card581,purple	Common	Major Disaster									Medical	Play off Field. Duration: 3 turns. Blocks all Locations that require the Medic skill to Scavenge.
+Martian Security Forces	Set_One	card582,purple	Uncommon	Major Disaster	7	5	4						Robot	Will attack Characters with Police skill or Robot or Android types before any others.
+Nightmare	Set_One	card586,purple	Rare	Major Disaster									Dream, Fear	Play off Field. Duration: 3 turns. Reduce Attack and Defense of all Characters in play by 1.
+On The Move	Set_One	card587,purple	Rare	Major Disaster									Holding	Unless 2 Police are present, all Character(s) at Location are captured. All Items present drop under Location. Place Character(s) off Field. When released, place in Haven. After capturing Character(s), discard Disaster.
+Political Investigation	Set_One	card588,purple	Common	Major Disaster									Legal	Play off Field. Character with Police or Bureaucracy unable to do anything for 3 turns.
+Red Commandos	Set_One	card595,purple	Uncommon	Major Disaster	6	6	4							Red Commandos move until they reach a Location with an Item. They will not move again for 4 turns. When they start their next move, they destroy the Item at their present Location.
+Sahara Demon	Set_One	card597,purple	Uncommon	Major Disaster	6	6	3						Spirit	Sahara Demon will steal an Item from a Character, then takes its full move again and places the Item under the Location it lands on.
+Tank Police on Patrol	Set_One	card600,purple	Common	Major Disaster	7	6	4						Police, Vehicle	Moves for 3 maintenance phases. On the third move, double Movement score. On the last Location it lands on, it destroys itself and every card at the Location.
+Under Age Smoking	Set_One	card606,purple	Common	Major Disaster										Unless computer x3 is present, Kill 1 random Student or Robot Character.
+3 Way Rumble	Set_One	card608,purple	Common	Minor Disaster	+2	+2								Place on nearest Combat Disaster and add 2 to its Damage and Defense.
+Asteroid	Set_One	card615,purple	Common	Minor Disaster									Earth, Planetary	Destroy nearest flying or planetary vehicle.
+Bio Ball	Set_One	card620,purple	Uncommon	Minor Disaster									Science	Incapacitates Character in 3 turns. Kills that Character in 6 turns.
+C-ko's Cooking	Set_One	card625,purple	Common	Minor Disaster									Food, Holding	Incapacitates nearest group (no action except Defense) until a Character with Cooking skill arrives. If "Akane's Cooking" is in play, moves to that Location and discard ALL cards except Location unless Cooking x3 is present. Remove "Kasumi" from game to defeat both Disasters.
+Defense Forces	Set_One	card632,purple	Rare	Minor Disaster	3	4	3						Robot	When Defense Forces land on a Location with an Item, they will not move any more and they add 1 to Damage and Defense.
+Desert Skeletons	Set_One	card634,purple	Common	Minor Disaster	4	4	4						Undead, Illusion	Each Character at Location must combat this Disaster individually, unless a card defeats as an Illusion.
+Dinner with Mom and Dad	Set_One	card636,purple	Uncommon	Minor Disaster									Hungry	All Student Characters in play must be placed in their Haven.
+Falling Debris	Set_One	card643,purple	Rare	Minor Disaster			6							Moves once. Bonks any Character without Flying and blocks Location for 3 turns.
+Falling I-Beam	Set_One	card644,purple	Common	Minor Disaster										Unless Strength x2 or Blind Luck present, Bonk 1 random Character.
+Fire Fight	Set_One	card645,purple	Common	Minor Disaster										All Characters in play are delayed 1 turn. All weapons with uses on Field are now empty, Discard or reload them.
+Funky Muggers	Set_One	card648,purple	Uncommon	Minor Disaster	4	3	2						Male	Destroys 1 Clothing card (players choice) that is carried by a Character that this Disaster does Health Damage to.
+Goons	Set_One	card650,purple	Common	Minor Disaster	3	3	2						Robot	
+Happy Tanks	Set_One	card653,purple	Rare	Minor Disaster	5	7	4							
+Hounded by the Press	Set_One	card656,purple	Rare	Minor Disaster									Horde	Any Character with Police or Investigation is unable to move for 1 turn.
+In the Hall	Set_One	card661,purple	Uncommon	Minor Disaster										Place on nearest School Location and prevents use of the Student skill by any Character.
+Max 5000	Set_One	card670,purple	Common	Minor Disaster	8	3	3						Mecha, Vehicle	This Disaster has no attack for the first combat round.
+Murdered Music Star	Set_One	card673,purple	Uncommon	Minor Disaster										All Music Items or Equipment are discarded. Any Character with Music skill is Killed.
+No Way Out	Set_One	card677,purple	Uncommon	Minor Disaster										Characters cannot run from the next Disaster they encounter.
+Observation Droid	Set_One	card678,purple	Uncommon	Minor Disaster									Robot, View	Affects nearest group of Character(s). Player of closest Character(s) must play with hand showing for 2 turns.
+One World	Set_One	card680,purple	Common	Minor Disaster										Play off Field No player can attack any other player's Characters. Each player can only Scavenge their own Locations.
+Power Suit	Set_One	card682,purple	Rare	Minor Disaster	3	3	2						Mecha	Does not get to attack on the combat round it is defeated.
+Run Over	Set_One	card689,purple	Rare	Minor Disaster									move	Unless a Character with movement of 4+ is present, Bonk one random Character.
+Runaway Elevator	Set_One	card690,purple	Common	Minor Disaster									Move	Unless 1 Robot is at you Location, 1 random Character is Killed.
+Running Fight	Set_One	card691,purple	Common	Minor Disaster	4	4	4						Move	If non-flying Vehicle is present at Location where Running Fight is defeated, Vehicle is destroyed (Turn card over).
+Running Late	Set_One	card692,purple	Common	Minor Disaster									Move	If student is present, group cannot move for 1 turn.
+Shopping Spree	Set_One	card695,purple	Common	Minor Disaster									Money	Discard ALL Money Items, Equipment and Enhancement cards in play.
+Short Out	Set_One	card696,purple	Uncommon	Minor Disaster									Computer, Science	Destroys nearest Computer card. If none on Field then it blocks nearest Location with Computer as a Requirement for 4 turns.
+Shot Down	Set_One	card697,purple	Uncommon	Minor Disaster			4							Destroys 1 piece of Flying Equipment at every Location it passes. Remove Flying skill from all Characters that do not have Phase skill that it encounters until Disaster leaves Field.
+Sudden Stop	Set_One	card701,purple	Common	Minor Disaster										Remove 1 non-Flying Vehicle from the game.
+Surgical Laser	Set_One	card702,purple	Rare	Minor Disaster	4	4	6						Computer	Moves Once Will attack any Character that stops within 1 Location of where it is.
+Swat Team	Set_One	card703,purple	Uncommon	Minor Disaster	4	5	3						Police, Horde	Discard all weapons to defeat without a fight. If you have no weapons, enjoy Combat.
+Tank Special	Set_One	card704,purple	Rare	Minor Disaster	4	8	5						Vehicle	Health is 4. After tank is defeated, blocks Location for 3 turns.
+Unwanted Guest	Set_One	card713,purple	Uncommon	Minor Disaster	4	5	3						Android	Will Attack Androids before any other Characters. All Androids are at -1 Defense.
+Vampiric Ambush	Set_One	card714,purple	Common	Minor Disaster	4	3	3						Undead	Will only initiate Attack against females. Do 3x Health to kill permanently or vampire will come back (treat as new Disaster)and pursue closest female Character in 2 turns.
+Wrong Button	Set_One	card717,purple	Rare	Minor Disaster									Computer	Remove ALL Computer Equipment and Enhancements from the Field and discard.
+Assistance / I Surrender	Set_One	card721,red	Uncommon	Combat	+2	+1								Add 2 to your Attack and 1 to your Defense.
+Avoid / Overdoing It	Set_One	card722,red	Common	Combat	+3									Add 3 to your Attack.
+Blind Throw / Surprised	Set_One	card728,red	Common	Combat	+2									Add 2 to your Attack.
+Blocking Rush / Halitosis	Set_One	card729,red	Common	Combat	+1	+2								Add 1 to your Attack and 2 to your Defense.
+Call To Arms / Accost	Set_One	card730,red	Common	Combat	+1	+2								Add 1 to your Attack and 2 to your Defense
+Charged Up / Ogle	Set_One	card732,red	Uncommon	Combat	*				*1					For the cost of 1 Energy, add 2 to your Attack, otherwise add 1.
+Desperate Shot / Terror	Set_One	card737,red	Common	Combat	+4									Add 4 to your Attack.
+Fancy Dance / Sexy Teacher	Set_One	card743,red	Common	Combat		-2								Subtract 2 from your Defense.
+Gone Crazy / Lovely Ladies	Set_One	card748,red	Uncommon	Combat	+1	-1								Add 1 to your Attack and Subtract 1 from your Defense.
+It's Your Fault / Broad Shoulders	Set_One	card755,red	Uncommon	Combat	-1									Subtract 1 from your Attack.
+Knocked Out / Beauty	Set_One	card759,red	Common	Combat	-3									Subtract 3 from your Attack.
+Ninja Defense / Getting Dressed	Set_One	card762,red	Common	Combat		+2								Add 2 to your Defense.
+Screw Kick / Comfy?	Set_One	card770,red	Common	Combat	*									If Character has Strength skill, add 3 to Attack. Otherwise add 2.
+Southern Cross Fist / Mournful Look	Set_One	card777,red	Common	Combat		*								If Character has Strength skill add 2 to Defense. Otherwise add 1.
+Startled / Pretty Lady	Set_One	card778,red	Uncommon	Combat	-1	-1								Subtract 1 from your Attack and Defense.
+Surprise Attack / Happy	Set_One	card780,red	Common	Combat	-1	-1								Lowers your Attack and Defense by 1.
+Take Cover / Ecstasy	Set_One	card781,red	Common	Combat		+2								Add 2 to your Defense.
+Toss / Distraction	Set_One	card783,red	Common	Combat	+2	+2								Add 2 to your Attack and Defense.
+Tracheotomy / Lovely Persuasion	Set_One	card784,red	Common	Combat		*								Subtract 1 from Defense. If opponent has a Weapon, subtract 2.
+Trip / Tears	Set_One	card785,red	Uncommon	Combat	+1	-1								Add 1 to your Attack and subtract 1 from your Defense.
