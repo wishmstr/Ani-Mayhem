@@ -256,6 +256,7 @@ Set_Two/card020.jpg	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/s
 Set_Two/card027.jpg	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/setimages/Set_Two/card027.jpg
 Set_Two/card028.jpg	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/setimages/Set_Two/card028.jpg
 Set_Two/card031.jpg	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/setimages/Set_Two/card031.jpg
+Set_Two/card032.jpg	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/setimages/Set_Two/card032.jpg
 Set_Two/card033.jpg	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/setimages/Set_Two/card033.jpg
 Set_Two/card034.jpg	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/setimages/Set_Two/card034.jpg
 Set_Two/card035.jpg	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/setimages/Set_Two/card035.jpg
