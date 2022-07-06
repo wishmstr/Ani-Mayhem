@@ -1,212 +1,306 @@
 <plugin>
-	<pluginversion>2.5</pluginversion>
-	<globalstat>
-		<label>Disasters' Item Count</label>
-		<initialvalue>0</initialvalue>
-	</globalstat>
-	<playerstat>
-		<label>Item Count</label>
-		<initialvalue>0</initialvalue>
-	</playerstat>
-	<deckzone>
-		<label>Characters</label>
-		<gamezonetoloadto>Haven</gamezonetoloadto>
-		<shuffle>no</shuffle>
-	</deckzone>
-	<deckzone>
-		<label>Deck</label>
-		<gamezonetoloadto>Deck</gamezonetoloadto>
-		<shuffle>yes</shuffle>
-	</deckzone>
-	<deckzone>
-		<label>Haven</label>
-		<gamezonetoloadto>Hand</gamezonetoloadto>
-		<shuffle>no</shuffle>
-	</deckzone>
-	<deckzone>
-		<label>Items</label>
-		<gamezonetoloadto>Start Items</gamezonetoloadto>
-		<shuffle>yes</shuffle>
-	</deckzone>
-	<deckzone>
-		<label>Locations</label>
-		<gamezonetoloadto>Start Locations</gamezonetoloadto>
-		<shuffle>yes</shuffle>
-	</deckzone>
-	<deckzone>
-		<label>Disasters</label>
-		<gamezonetoloadto>Start Disasters</gamezonetoloadto>
-		<shuffle>yes</shuffle>
-	</deckzone>
-	<deckzone>
-		<label>Combats</label>
-		<gamezonetoloadto>Combat Deck</gamezonetoloadto>
-		<shuffle>yes</shuffle>
-	</deckzone>
-	<gamezone>
-		<label>Hand</label>
-		<visibletoowner>yes</visibletoowner>
-		<visibletoothers>no</visibletoothers>
-	</gamezone>
-	<gamezone>
-		<label>Deck</label>
-		<visibletoowner>no</visibletoowner>
-		<visibletoothers>no</visibletoothers>
-	</gamezone>
-	<gamezone>
-		<label>Haven</label>
-		<visibletoowner>yes</visibletoowner>
-		<visibletoothers>no</visibletoothers>
-	</gamezone>
-	<gamezone>
-		<label>Discard</label>
-		<visibletoowner>yes</visibletoowner>
-		<visibletoothers>yes</visibletoothers>
-	</gamezone>
-	<gamezone>
-		<label>Combat Deck</label>
-		<visibletoowner>no</visibletoowner>
-		<visibletoothers>no</visibletoothers>
-	</gamezone>
-	<gamezone>
-		<label>Combat Disc</label>
-		<visibletoowner>yes</visibletoowner>
-		<visibletoothers>yes</visibletoothers>
-	</gamezone>
-	<gamezone>
-		<label>Destroyed</label>
-		<visibletoowner>yes</visibletoowner>
-		<visibletoothers>yes</visibletoothers>
-	</gamezone>
-	<gamezone>
-		<label>Start Locations</label>
-		<visibletoowner>no</visibletoowner>
-		<visibletoothers>no</visibletoothers>
-	</gamezone>
-	<gamezone>
-		<label>Start Items</label>
-		<visibletoowner>no</visibletoowner>
-		<visibletoothers>no</visibletoothers>
-	</gamezone>
-	<gamezone>
-		<label>Start Disasters</label>
-		<visibletoowner>no</visibletoowner>
-		<visibletoothers>no</visibletoothers>
-	</gamezone>
-	<phase>
-		<label>Discard</label>
-	</phase>
-	<phase>
-		<label>Draw</label>
-	</phase>
-	<phase>
-		<label>Disaster</label>
-	</phase>
-	<phase>
-		<label>Equip</label>
-	</phase>
-	<phase>
-		<label>Move</label>
-	</phase>
-	<phase>
-		<label>Scavenge</label>
-	</phase>
-	<generalfunction>
-		<label>Draw</label>
-		<kind>TRANSFERCARD</kind>
-		<sourceowner>performer</sourceowner>
-		<sourcegamezone>Deck</sourcegamezone>
-		<sourceposition>top</sourceposition>
-		<destinationowner>performer</destinationowner>
-		<destinationgamezone>Hand</destinationgamezone>
-		<includeasbutton>yes</includeasbutton>
-	</generalfunction>
-	<generalfunction>
-		<label>Draw Combat</label>
-		<kind>TRANSFERCARD</kind>
-		<sourceowner>performer</sourceowner>
-		<sourcegamezone>Combat Deck</sourcegamezone>
-		<sourceposition>top</sourceposition>
-		<destinationowner>table</destinationowner>
-		<includeasbutton>yes</includeasbutton>
-	</generalfunction>
-	<generalfunction>
-		<label>Setup Item</label>
-		<kind>TRANSFERCARD</kind>
-		<sourceowner>performer</sourceowner>
-		<sourcegamezone>Start Items</sourcegamezone>
-		<sourceposition>top</sourceposition>
-		<destinationowner>table</destinationowner>
-		<destinationposition>facedown</destinationposition>
-		<includeasbutton>yes</includeasbutton>
-	</generalfunction>
-	<generalfunction>
-		<label>Setup Disaster</label>
-		<kind>TRANSFERCARD</kind>
-		<sourceowner>performer</sourceowner>
-		<sourcegamezone>Start Disasters</sourcegamezone>
-		<sourceposition>top</sourceposition>
-		<destinationowner>table</destinationowner>
-		<destinationposition>facedown</destinationposition>
-		<includeasbutton>yes</includeasbutton>
-	</generalfunction>
-	<generalfunction>
-		<label>Setup Location</label>
-		<kind>TRANSFERCARD</kind>
-		<sourceowner>performer</sourceowner>
-		<sourcegamezone>Start Locations</sourcegamezone>
-		<sourceposition>top</sourceposition>
-		<destinationowner>table</destinationowner>
-		<destinationposition>faceup</destinationposition>
-		<includeasbutton>yes</includeasbutton>
-	</generalfunction>
-	<generalfunction>
-		<label>Flip a Coin</label>
-		<kind>FLIPCOIN</kind>
-	</generalfunction>
-	<generalfunction>
-		<label>Random 1-3</label>
-		<kind>ROLLD3</kind>
-	</generalfunction>
-	<generalfunction>
-		<label>Random 1-4</label>
-		<kind>ROLLD4</kind>
-	</generalfunction>
-	<generalfunction>
-		<label>Random 1-6</label>
-		<kind>ROLLD6</kind>
-	</generalfunction>
-	<generalfunction>
-		<label>Random 1-10</label>
-		<kind>ROLLD10</kind>
-	</generalfunction>
-	<generalfunction>
-		<label>Next Phase</label>
-		<kind>NEXTPHASE</kind>
-	</generalfunction>
-	<generalfunction>
-		<label>Next Turn</label>
-		<kind>NEXTURN</kind>
-	</generalfunction>
-	<cardfunction>
-		<label>Edit Note</label>
-		<kind>EDITNOTE</kind>
-		<PositionX>.80</PositionX>
-		<PositionY>.01</PositionY>
-	</cardfunction>
-	<cardfunction>
-		<label>Turn Over</label>
-		<kind>TURNOVER</kind>
-	</cardfunction>
-	<definition>
-		<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
-	</definition>
-	<definition>
-		<kind>GRIDSIZE</kind>
-		<value>0.03125</value>
-	</definition>
-	<definition>
-		<kind>RULEBOOKFILE</kind>
-		<value>http://xn--ccke0j3bybd.com/rules/rules.html</value>
-	</definition>
+<pluginversion>3.0</pluginversion>
+
+//---------->Global Stat<----------
+
+<globalstat>
+	<label>Disasters' Item Count</label>
+	<initialvalue>0</initialvalue>
+</globalstat>
+
+//---------->Player Stat<----------
+
+<playerstat>
+	<label>Item Count</label>
+	<initialvalue>0</initialvalue>
+</playerstat>
+
+//---------->Deck Zones<----------
+
+<deckzone>
+	<label>Characters</label>
+	<gamezonetoloadto>Haven</gamezonetoloadto>
+	<shuffle>no</shuffle>
+</deckzone>
+
+<deckzone>
+	<label>Deck</label>
+	<gamezonetoloadto>Deck</gamezonetoloadto>
+	<shuffle>yes</shuffle>
+</deckzone>
+
+<deckzone>
+	<label>Haven</label>
+	<gamezonetoloadto>Hand</gamezonetoloadto>
+	<shuffle>no</shuffle>
+</deckzone>
+
+<deckzone>
+	<label>Items</label>
+	<gamezonetoloadto>Start Items</gamezonetoloadto>
+	<shuffle>yes</shuffle>
+</deckzone>
+
+<deckzone>
+	<label>Locations</label>
+	<gamezonetoloadto>Start Locations</gamezonetoloadto>
+	<shuffle>yes</shuffle>
+</deckzone>
+
+<deckzone>
+	<label>Disasters</label>
+	<gamezonetoloadto>Start Disasters</gamezonetoloadto>
+	<shuffle>yes</shuffle>
+</deckzone>
+
+<deckzone>
+	<label>Combats</label>
+	<gamezonetoloadto>Combat Deck</gamezonetoloadto>
+	<shuffle>yes</shuffle>
+</deckzone>
+
+//---------->Game Zones<----------
+
+<gamezone>
+	<label>Hand</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Deck</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Haven</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Discard</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Combat Deck</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Combat Disc</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Destroyed</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Start Locations</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Start Items</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Start Disasters</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+//---------->Phases<----------
+// 1 - Discard
+// 2 - Draw
+// 3 - Disaster Movement
+// 4 - Equip
+// 5 - Scavenge
+
+<phase>
+	<label>Discard</label>
+</phase>
+
+<phase>
+	<label>Draw</label>
+</phase>
+
+<phase>
+	<label>Disaster</label>
+</phase>
+
+<phase>
+	<label>Equip</label>
+</phase>
+
+<phase>
+	<label>Move</label>
+</phase>
+
+<phase>
+	<label>Scavenge</label>
+</phase>
+
+//---------->General Function<----------
+// 1 - Draw a card
+// 2 - Draw a Combat Card
+// 3 - Set Up Item Cards
+// 4 - Set Up Disaster Cards
+// 5 - Set Up Locations
+// 6 - Transfer Disaster to Deck
+// 7 - Spawn Chit Card
+// 8 - Flip a Coin
+// 9 - Roll 1d3
+// 10 - Roll 1d4
+// 11 - Roll 1d6
+
+<generalfunction>
+	<label>Draw</label>
+	<kind>DRAWCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Draw Combat</label>
+	<kind>TRANSFERCARD</kind>
+	<sourcegamezone>Combat Deck</sourcegamezone>
+	<destinationowner>table</destinationowner>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Setup Item</label>
+	<kind>TRANSFERCARD</kind>
+	<sourcegamezone>Start Items</sourcegamezone>
+	<destinationowner>table</destinationowner>
+	<destinationposition>facedown</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Setup Disaster</label>
+	<kind>TRANSFERCARD</kind>
+	<sourcegamezone>Start Disasters</sourcegamezone>
+	<destinationowner>table</destinationowner>
+	<destinationposition>facedown</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Setup Location</label>
+	<kind>TRANSFERCARD</kind>
+	<sourcegamezone>Start Locations</sourcegamezone>
+	<destinationowner>table</destinationowner>
+	<destinationposition>faceup</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Move Disaster</label>
+	<kind>TRANSFERCARD</kind>
+	<sourcegamezone>Start Disasters</sourcegamezone>
+	<destinationgamezone>Deck</destinationgamezone>
+</generalfunction>
+
+<generalfunction>
+	<label>Spawn Card</label>
+	<kind>SPAWNCARD</kind>
+</generalfunction>
+
+<generalfunction>
+	<label>Flip a Coin</label>
+	<kind>FLIPCOIN</kind>
+</generalfunction>
+
+<generalfunction>
+	<label>1d3</label>
+	<kind>ROLLD3</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>1d4</label>
+	<kind>ROLLD4</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>1d6</label>
+	<kind>ROLLD6</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+
+//---------->Card Functions<----------
+// 1 - Green +1
+// 2 - Green -1
+// 3 - Red +1
+// 4 - Red -1
+// 5 - Bonk Character
+// 6 - Ready Character
+
+<cardfunction>
+	<label>Green+1</label>
+	<kind>ADDCOUNTER</kind>
+	<color>green</color>
+	<includeasbutton>yes</includeasbutton>
+	<PositionX>.75</PositionX>
+	<PositionY>.04</PositionY>
+</cardfunction>
+
+<cardfunction>
+	<label>Green-1</label>
+	<kind>REMOVECOUNTERGREEN</kind>
+	<color>green</color>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+
+<cardfunction>
+	<label>Red+1</label>
+	<kind>ADDCOUNTER</kind>
+	<color>red</color>
+	<includeasbutton>yes</includeasbutton>
+	<textoverimagecolor>FF0000</textoverimagecolor>
+	<PositionX>.25</PositionX>
+	<PositionY>.04</PositionY>
+</cardfunction>
+
+<cardfunction>
+	<label>Red-1</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>red</color>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+
+<cardfunction>
+	<label>Bonk</label>
+	<kind>MAKERIGHT180DEGREES</kind>
+</cardfunction>
+
+<cardfunction>
+	<label>Ready</label>
+	<kind>MAKERIGHT0DEGREES</kind>
+</cardfunction>
+
+// ---------->Definitions<----------
+
+<definition>
+	<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+</definition>
+
+<definition>
+	<kind>ISSTACKEDCARDSFLAT</kind>
+</definition>
+
 </plugin>

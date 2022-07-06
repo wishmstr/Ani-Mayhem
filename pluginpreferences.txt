@@ -3,26 +3,26 @@
 <counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
-<canned>(PoP?) Pass or Play?</canned>
-<canned>Pass.</canned>
-<canned>Proceed.</canned>
-<canned>Thinking...</canned>
-<canned>Hold on...</canned>
-<canned>(EoT) At end of turn...</canned>
-<canned>Attack!</canned>
-<canned>In response...</canned>
-<canned>Mulligan.</canned>
-<canned>Your turn...</canned>
-<canned>Done.</canned>
-<canned>Yay!</canned>
-<canned>shucks</canned>
-<canned>/roll</canned>
-<canned>/clear</canned>
-<canned>/draw7</canned>
-<canned>/rolld20</canned>
-<canned>/draw6</canned>
-<canned>/draw8</canned>
+<canned>!Start Game!/d7;/f6;/f6;/f6;/f6;/f6;/f6;/f6;/f7;/shuffle2</canned>
+<canned>.</canned>
+<canned>!Setup Item!/f3;/f3;/f3;/f3;/f3;/f3;/f3</canned>
+<canned>!Setup Dstr!/f4;/f4;/f4;/f4;/f4;/f4;/f4</canned>
+<canned>!Setup Loc!/f5;/f5;/f5;/f5;/f5;/f5;/f5</canned>
+<canned>.</canned>
 <canned>Good game.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>Roboto-Light_0.ttf</fontkind0pos1>
 <fontkind0pos2>times.ttf</fontkind0pos2>
@@ -55,17 +55,20 @@
 <bindingmain16>SHIFT+ALT+h</bindingmain16>
 <bindingmain18>SHIFT+META+t</bindingmain18>
 <bindingmain19>META+q</bindingmain19>
-<bindinggeneral0>CTRL+m</bindinggeneral0>
-<bindinggeneral1>ALT+2</bindinggeneral1>
+<bindinggeneral0>CTRL+d</bindinggeneral0>
+<bindinggeneral1>CTRL+m</bindinggeneral1>
 <bindinggeneral2>CTRL+SHIFT+c</bindinggeneral2>
 <bindinggeneral3>META+DOWN</bindinggeneral3>
 <bindinggeneral4>ALT+3</bindinggeneral4>
 <bindinggeneral5>META+r</bindinggeneral5>
 <bindinggeneral6>ALT+4</bindinggeneral6>
 <bindinggeneral7>META+LEFT</bindinggeneral7>
-<bindinggeneral9>CTRL+DOWN</bindinggeneral9>
-<bindingcard0>ALT+SPACE</bindingcard0>
-<bindingcard1>META+f</bindingcard1>
+<bindingcard0>CTRL+SHIFT+EQUALS</bindingcard0>
+<bindingcard1>CTRL+SHIFT+MINUS</bindingcard1>
+<bindingcard2>CTRL+EQUALS</bindingcard2>
+<bindingcard3>CTRL+MINUS</bindingcard3>
+<bindingcard4>ALT+d</bindingcard4>
+<bindingcard5>META+i</bindingcard5>
 <bindingcanned0>CTRL+1</bindingcanned0>
 <bindingcanned1>CTRL+2</bindingcanned1>
 <bindingcanned2>CTRL+3</bindingcanned2>
@@ -76,8 +79,6 @@
 <bindingcanned7>CTRL+8</bindingcanned7>
 <bindingcanned8>CTRL+9</bindingcanned8>
 <bindingcanned13>CTRL+0</bindingcanned13>
-<bindingcanned17>CTRL+MINUS</bindingcanned17>
-<bindingcanned18>CTRL+EQUALS</bindingcanned18>
 <libraryignoredoubles>1</libraryignoredoubles>
 <recentformat>-1</recentformat>
 <filterkeystroke>1</filterkeystroke>
@@ -85,7 +86,6 @@
 <scalefactor>1.000000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
-<prevtilt>35.000000</prevtilt>
 <isdownloadallmissing>1</isdownloadallmissing>
 
 </pluginpreferences>
