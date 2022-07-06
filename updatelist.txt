@@ -2,6 +2,7 @@ Ani-Mayhem_Classic	07-06-22
 plugins/Ani-Mayhem_Classic/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/plugininfo.txt	542683
 plugins/Ani-Mayhem_Classic/rules.pdf	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/rules.pdf	11372152
 plugins/Ani-Mayhem_Classic/credits.txt	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/credits.txt	9835
+plugins/Ani-Mayhem_Classic/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/pluginpreferences.txt	301222
 plugins/Ani-Mayhem_Classic/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/CardImageURLs1.txt	8493835
 plugins/Ani-Mayhem_Classic/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/sets/carddata.txt	9983997
 plugins/Ani-Mayhem_Classic/version.txt	https://raw.githubusercontent.com/wishmstr/Ani-Mayhem/main/version.txt	32857
