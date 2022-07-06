@@ -1,0 +1,6 @@
+<uninstall>
+
+<dateYYMMDD>220706</dateYYMMDD>
+<removepath>sets/setimages/general/spawned.jpg</removepath>
+
+</uninstall>

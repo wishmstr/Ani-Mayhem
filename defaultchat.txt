@@ -1,0 +1,20 @@
+!Start Game!/d7;/f6;/f6;/f6;/f6;/f6;/f6;/f6;/f7;/shuffle2
+.
+!Setup Item!/f3;/f3;/f3;/f3;/f3;/f3;/f3
+!Setup Dstr!/f4;/f4;/f4;/f4;/f4;/f4;/f4
+!Setup Loc!/f5;/f5;/f5;/f5;/f5;/f5;/f5
+.
+Good game.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
